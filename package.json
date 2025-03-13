@@ -1,7 +1,13 @@
 {
+<<<<<<< HEAD
 	"name": "react-poster",
 	"private": true,
 	"version": "0.0.1",
+=======
+	"name": "twitter-like-demo-app",
+	"private": true,
+	"version": "0.0.0",
+>>>>>>> fc0f5ba (first commit)
 	"type": "module",
 	"scripts": {
 		"dev": "vite",
